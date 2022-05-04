@@ -1,0 +1,65 @@
+2021-04-30 22:41:02,127 -- INFO: -- User : bek updated Product: Huawei
+2021-04-30 22:41:15,210 -- INFO: -- User : bek updated Product: Huawei
+2021-05-05 18:20:24,138 -- INFO: -- Product: Lenovo removed from active
+2021-05-05 18:22:41,850 -- INFO: -- Product: Lenovo removed from active
+2021-05-05 18:23:19,770 -- INFO: -- Product: Lenovo removed from active
+2021-05-05 18:23:22,410 -- INFO: -- Product: Lenovo removed from active
+2021-05-05 18:25:09,543 -- INFO: -- Product: Lenovo removed from active
+2021-05-05 20:08:26,857 -- INFO: -- Product: Lenovo removed from active
+2021-05-05 20:12:44,770 -- INFO: -- Product: Lenovo removed from active
+2021-05-05 20:13:21,488 -- INFO: -- Product: Lenovo removed from active
+2021-05-05 20:13:25,693 -- INFO: -- Product: Lenovo removed from active
+2021-05-05 20:13:32,039 -- INFO: -- Product: Lenovo removed from active
+2021-05-05 20:28:59,537 -- INFO: -- User : Ali created Lenovo
+2021-05-05 20:29:35,336 -- INFO: -- User : Ali created Lenovo
+2021-05-05 20:29:43,398 -- INFO: -- Product: Lenovo removed from active
+2021-05-05 20:29:46,374 -- INFO: -- Product: Lenovo removed from active
+2021-05-05 20:30:22,187 -- INFO: -- Product: Lenovo removed from active
+2021-05-05 20:30:46,132 -- INFO: -- Product: Lenovo removed from active
+2021-05-05 20:30:46,133 -- INFO: -- Product: Lenovo removed from active
+2021-05-05 20:31:07,799 -- INFO: -- User : Ali created Lenovo2
+2021-05-05 20:36:05,912 -- INFO: -- Product: Lenovo removed from active
+2021-05-05 20:36:39,567 -- INFO: -- Product: Lenovo removed from active
+2021-05-05 20:53:33,877 -- INFO: -- User : Ali updated Product: Lenovo
+2021-05-05 20:53:54,416 -- INFO: -- User : Ali updated Product: Lenovo
+2021-05-05 20:54:40,152 -- INFO: -- Product: Lenovo removed from active
+2021-05-12 19:34:09,286 -- INFO: -- User : Bekbolat posted comment on Product: Lenovo2
+2021-05-12 19:44:55,293 -- INFO: -- User : Bekbolat posted comment on Product: Lenovo2
+2021-05-12 19:48:13,115 -- INFO: -- User : Ali posted new category
+2021-05-12 19:59:57,804 -- INFO: -- User : Ali posted new category
+2021-05-12 20:31:16,007 -- INFO: -- User : Ali added Product: Lenovo2 to his profile
+2021-05-12 20:31:22,783 -- INFO: -- User : Ali added Product: Lenovo3 to his profile
+2021-05-12 20:33:46,458 -- INFO: -- User : Ali removed Product: Lenovo3 from his profile
+2021-05-12 20:43:13,455 -- INFO: -- User : Ali removed Product: Lenovo2 from his profile
+2021-05-12 20:53:42,609 -- INFO: -- User : Ali added Product: Lenovo3 to his profile
+2021-05-12 20:53:51,479 -- INFO: -- User : Ali removed Product: Lenovo3 from his profile
+2021-05-12 20:58:09,878 -- INFO: -- User : admin added Product: Lenovo to his profile
+2021-05-12 20:58:16,157 -- INFO: -- User : admin added Product: Lenovo2 to his profile
+2021-05-12 21:00:30,226 -- INFO: -- User : admin added Product: Lenovo3 to his profile
+2021-05-12 21:00:39,589 -- INFO: -- User : admin removed Product: Lenovo3 from his profile
+2021-05-12 21:03:33,647 -- INFO: -- User : admin removed Product: Lenovo from his profile
+2021-05-12 21:03:40,140 -- INFO: -- User : admin added Product: Lenovo3 to his profile
+2021-05-13 18:38:35,547 -- INFO: -- User : Ali added Product: Lenovo2 to his profile
+2021-05-13 20:24:33,090 -- INFO: -- User : Abylay posted comment on Product: Lenovo2
+2021-05-13 20:26:29,549 -- INFO: -- User : Abylay posted new category
+2021-05-13 20:28:12,148 -- INFO: -- User : Abylay added Product: Lenovo to his profile
+2021-05-13 20:28:16,353 -- INFO: -- User : Abylay added Product: Lenovo3 to his profile
+2021-05-13 20:28:49,290 -- INFO: -- User : Abylay removed Product: Lenovo3 from his profile
+2021-05-13 20:30:49,258 -- ERROR: -- 'ReturnDict' object has no attribute 'id'
+2021-05-13 20:31:42,242 -- ERROR: -- '<' not supported between instances of 'QuerySet' and 'int'
+2021-05-13 20:31:57,723 -- INFO: -- User : Abylay added Product: Lenovo3 to his profile
+2021-05-13 20:32:01,501 -- INFO: -- User : Abylay created order
+2021-05-14 19:50:53,596 -- INFO: -- Lenovo3 removed from active
+2021-05-14 19:50:53,710 -- INFO: -- Lenovo2 removed from active
+2021-05-14 19:51:30,556 -- INFO: -- Lenovo3 removed from active
+2021-05-14 19:51:30,557 -- INFO: -- Lenovo2 removed from active
+2021-05-14 20:00:22,063 -- INFO: -- Ali added test2 to his profile
+2021-05-14 20:00:26,314 -- INFO: -- Ali added test to his profile
+2021-05-14 20:00:33,072 -- INFO: -- Ali created order
+2021-05-14 20:01:44,569 -- INFO: -- Ali added test to his profile
+2021-05-14 20:01:48,406 -- INFO: -- Ali added Lenovo to his profile
+2021-05-14 20:01:50,632 -- INFO: -- Ali added test2 to his profile
+2021-05-14 20:02:42,168 -- INFO: -- Ali created order
+2022-05-03 19:58:45,265 -- INFO: -- Meyr added Test to his profile
+2022-05-03 19:59:17,703 -- INFO: -- Meyr added Test to his profile
+2022-05-03 19:59:58,460 -- INFO: -- Test removed from active
